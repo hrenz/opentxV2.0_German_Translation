@@ -1,4 +1,4 @@
-/*   German checked 25.03.2014 kleine Änderungen 
+/*   German checked 26.03.2014 kleine Änderungen 
  * Authors (alphabetical order)
  * - Bertrand Songis <bsongis@gmail.com>
  * - Bernet Andre <bernet.andre@gmail.com>
